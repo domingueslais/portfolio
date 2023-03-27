@@ -11,7 +11,11 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
+body,html {
+    height: 100vh;
+    width: 100vw;
+    font-family: "Allerta Stencil", sans-serif;
+}
 nav {
-    display: inline;
+    display: inline-block;
 }

@@ -1,0 +1,15 @@
+figure {
+    display: inline-block;
+    margin: auto;
+}
+
+img { 
+    height: 200px;
+    margin: auto;
+}
+figcaption {
+    font-size: 0.8em;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
